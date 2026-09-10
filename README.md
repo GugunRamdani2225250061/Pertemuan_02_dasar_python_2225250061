@@ -1,65 +1,50 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-# Pertemuan 02 - Dasar Python
-=======
-## Pertemuan 02 - Dasar Python
->>>>>>> a51f66dd09926cd84c175d3ec4ff799ce6a95a28
+# pertemuan-02-dasar-python-2225250061
 
-**Nama:** Gugun Ramdani
-**NIM:** 2225250061
-**Kelas:** 3A
+## Identitas
 
-## Tujuan
+- Nama: Gugun Ramdani
+- NIM: 2225250061
+- Kelas: 3A
 
-Repository ini dibuat untuk mengerjakan latihan dasar Python dan tugas kalkulator koordinat dua titik.
+## Tujuan Repository
 
-## Daftar File
+Repository ini digunakan untuk mengumpulkan latihan dasar Python dan tugas kalkulator koordinat pada Pertemuan 02. Program dibuat dan dijalankan menggunakan VS Code.
 
-## Daftar File
+## Daftar dan Fungsi Berkas
 
-- `latihan/01_biodata.py` - Program biodata dan perkiraan umur.
-- `latihan/02_persegi_panjang.py` - Menghitung luas dan keliling persegi panjang.
-- `latihan/03_konversi_suhu.py` - Mengonversi suhu Celsius ke Fahrenheit dan Kelvin.
-- `latihan/04_nilai_akhir.py` - Menghitung nilai akhir berdasarkan bobot tugas, UTS, dan UAS.
-- `tugas/kalkulator_koordinat.py` - Menghitung jarak dan titik tengah dua titik koordinat.
+| Berkas | Fungsi |
+|---|---|
+| `latihan/01_biodata.py` | Menampilkan biodata dan menghitung perkiraan umur. |
+| `latihan/02_persegi_panjang.py` | Menghitung luas dan keliling persegi panjang. |
+| `latihan/03_konversi_suhu.py` | Mengonversi suhu Celsius ke Fahrenheit dan Kelvin. |
+| `latihan/04_nilai_akhir.py` | Menghitung nilai akhir berdasarkan nilai tugas, UTS, dan UAS. |
+| `tugas/kalkulator_koordinat.py` | Menghitung perubahan koordinat, jarak, dan titik tengah dari dua titik. |
 
-## Cara Menjalankan
+## Cara Menjalankan Program
 
-Buka terminal di folder utama repository, lalu jalankan program dengan perintah:
+Buka terminal pada folder repository, kemudian jalankan:
 
-`python hello.py`
+```bash
+python latihan/01_biodata.py
+python latihan/02_persegi_panjang.py
+python latihan/03_konversi_suhu.py
+python latihan/04_nilai_akhir.py
+python tugas/kalkulator_koordinat.py
 
-`python latihan/01_biodata.py`
+## Hasil Pengujian Tugas Utama
 
-`python latihan/02_persegi_panjang.py`
+| Test Case | Titik A | Titik B | Jarak | Titik Tengah |
+|---|---|---|---|---|
+| 1 | (0, 0) | (3, 4) | 5.00 | (1.50, 2.00) |
+| 2 | (-2, 1) | (4, 1) | 6.00 | (1.00, 1.00) |
+| 3 | (2.5, -1) | (2.5, 3) | 4.00 | (2.50, 1.00) |
 
-`python latihan/03_konversi_suhu.py`
+##Refleksi
+- Konsep yang paling saya pahami adalah penggunaan input, variabel, dan operasi aritmatika karena saya bisa langsung menerapkannya pada program kalkulator koordinat.
+- Pada pertemuan berikutnya saya ingin lebih memahami penggunaan Git dan GitHub serta cara membuat program Python yang lebih kompleks.
 
-`python latihan/04_nilai_akhir.py`
-
-`python tugas/kalkulator_koordinat.py`
-
-## Hasil Pengujian
-
-<<<<<<< HEAD
-|No.| Titik A (x,y)| Titik B (x,y)| Jarak | Titik Tengah|
-| 1 |   (0,0)      |    (3,4)     | 5.00  | (1.50,2.00) |
-| 2 |   (-2,1)     |    (4,1)     | 6.00  | (1.00,1.00) |
-| 3 |   (2.5,-1)   |    (2.5,3)   | 4.00  | (2.50,1.00) |
-=======
-# |No.| Titik A (x,y)| Titik B (x,y)| Jarak | Titik Tengah|
-# | 1 |   (0,0)      |    (3,4)     | 5.00  | (1.50,2.00) |
-# | 2 |   (-2,1)     |    (4,1)     | 6.00  | (1.00,1.00) |
-# | 3 |   (2.5,-1)   |    (2.5,3)   | 4.00  | (2.50,1.00) |
->>>>>>> a51f66dd09926cd84c175d3ec4ff799ce6a95a28
-
-## Refleksi
-Setelah mengerjakan latihan ini, saya memahami penggunaan variabel, konstanta, tipe data, input dan output, konversi tipe data, serta operator dalam Python. Saya juga memahami cara menghitung jarak dan titik tengah dari dua titik koordinat menggunakan operasi aritmatika Python. Saya juga belajar melakukan pengujian program dengan beberapa kasus input untuk memastikan hasil perhitungan sudah benar.
-
-## Sumber
-- Modul Pertemuan 02 - Dasar Python.
-- Dokumentasi Python.
-<<<<<<< HEAD
-=======
-=======
->>>>>>> a51f66dd09926cd84c175d3ec4ff799ce6a95a28
+##Sumber
+- Bahan Ajar Dasar Python di VS Code dan Pengumpulan melalui GitHub – Pertemuan 02.
+- Python Software Foundation. The Python Tutorial.
+- Visual Studio Code. Getting Started with Python in VS Code.
+- GitHub Docs. Creating a New Repository.
