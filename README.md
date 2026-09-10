@@ -1,0 +1,1 @@
+# Pertemuan_02_dasar_python_2225250061
