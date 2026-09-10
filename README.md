@@ -36,10 +36,10 @@ Buka terminal di folder utama repository, lalu jalankan program dengan perintah:
 
 ## Hasil Pengujian
 
-## |No.| Titik A (x,y)| Titik B (x,y)| Jarak | Titik Tengah|
-| 1 |   (0,0)      |    (3,4)     | 5.00  | (1.50,2.00) |
-| 2 |   (-2,1)     |    (4,1)     | 6.00  | (1.00,1.00) |
-| 3 |   (2.5,-1)   |    (2.5,3)   | 4.00  | (2.50,1.00) |
+# |No.| Titik A (x,y)| Titik B (x,y)| Jarak | Titik Tengah|
+# | 1 |   (0,0)      |    (3,4)     | 5.00  | (1.50,2.00) |
+# | 2 |   (-2,1)     |    (4,1)     | 6.00  | (1.00,1.00) |
+# | 3 |   (2.5,-1)   |    (2.5,3)   | 4.00  | (2.50,1.00) |
 
 ## Refleksi
 Setelah mengerjakan latihan ini, saya memahami penggunaan variabel, konstanta, tipe data, input dan output, konversi tipe data, serta operator dalam Python. Saya juga memahami cara menghitung jarak dan titik tengah dari dua titik koordinat menggunakan operasi aritmatika Python. Saya juga belajar melakukan pengujian program dengan beberapa kasus input untuk memastikan hasil perhitungan sudah benar.
