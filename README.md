@@ -36,7 +36,7 @@ Buka terminal di folder utama repository, lalu jalankan program dengan perintah:
 
 ## Hasil Pengujian
 
-|No.| Titik A (x,y)| Titik B (x,y)| Jarak | Titik Tengah|
+## |No.| Titik A (x,y)| Titik B (x,y)| Jarak | Titik Tengah|
 | 1 |   (0,0)      |    (3,4)     | 5.00  | (1.50,2.00) |
 | 2 |   (-2,1)     |    (4,1)     | 6.00  | (1.00,1.00) |
 | 3 |   (2.5,-1)   |    (2.5,3)   | 4.00  | (2.50,1.00) |
